@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Setups/_StartPage.unity
+    guid: 67d606be5c53c154fbe49878e946b683
+  - enabled: 1
+    path: Assets/Scenes/Setups/_ChallengePage.unity
+    guid: 47bc15a25049a004aac1dfbbdd5ea52c
+  - enabled: 1
+    path: Assets/Scenes/Setups/_CreditsPage.unity
+    guid: 0fc9b48ac052d5048be8c3cb030e8123
+  - enabled: 1
+    path: Assets/Scenes/Setups/_SettingsPage.unity
+    guid: d249c84f25914264987a6d658c3e71a8
+  - enabled: 1
+    path: Assets/Scenes/Setups/_TransitionPage.unity
+    guid: bb4066f61a420f9459cccb44781dab3c
+  - enabled: 1
+    path: Assets/Scenes/Challenges/FirstLevel.unity
+    guid: 21b9529a2c3e5274eb778bea76fab5b2
+  - enabled: 0
+    path: Assets/Scenes/Challenges/Challenge1.unity
+    guid: e6dd61b13608d6c48a58043617b78b63
+  - enabled: 1
+    path: Assets/Scenes/Challenges/Challenge2.unity
+    guid: fd6137b2c3a0bff40bc9358005da082e
+  - enabled: 1
+    path: Assets/Scenes/Challenges/Challenge3.unity
+    guid: f7a33757aa9462543b480ff4828249b1
+  - enabled: 1
+    path: Assets/Scenes/Challenges/Challenge chase 3.unity
+    guid: 69b9640c607622340ad244b6be451693
+  - enabled: 1
+    path: Assets/Scenes/Challenges/Challenge5.unity
+    guid: a898be0647d926443b9cece63d48540b
+  - enabled: 1
+    path: Assets/Scenes/Challenges/Challenge10.unity
+    guid: 86631b36d761082469bcb205697289cb
+  - enabled: 1
+    path: Assets/Scenes/Challenges/Challenge9.unity
+    guid: e2ca207ac90531d46867bb0866b15422
+  - enabled: 1
+    path: Assets/Scenes/Challenges/Challenge6.unity
+    guid: 35eab5017d53e2f49be007c75aa516e3
+  - enabled: 1
+    path: Assets/Scenes/Challenges/Challenge8.unity
+    guid: 3dd332bc7a0194344b03d6670b465c0a
+  - enabled: 1
+    path: Assets/Scenes/Challenges/Challenge4.unity
+    guid: 09a5d2b056a4baa46946bd345e03f0d5
+  - enabled: 1
+    path: Assets/Scenes/cHASE/Chase1.unity
+    guid: 29acf6a386b7a0946ae9dcee618d622e
+  - enabled: 1
+    path: Assets/Scenes/cHASE/Chase2.unity
+    guid: 503a923e6b895ec42a7488f50a2e08e1
+  - enabled: 1
+    path: Assets/Scenes/cHASE/Chase3.unity
+    guid: 7b212986029888845bb696cc187867fa
+  - enabled: 1
+    path: Assets/Scenes/cHASE/Chase4.unity
+    guid: c7ec7ae21d6d128469c1fc919dc4c62e
+  - enabled: 1
+    path: Assets/Scenes/cHASE/Chase5.unity
+    guid: 6517ff013706b6643831bfb9b63a2b99
+  - enabled: 1
+    path: Assets/Scenes/cHASE/Chase6.unity
+    guid: c03f4af9813818c4fa9f71c12a8973c7
+  - enabled: 1
+    path: Assets/Scenes/cHASE/Chase7.unity
+    guid: 7ae52f3766f569747b5e10f7338fc4c1
+  - enabled: 1
+    path: Assets/Scenes/BlackNWhite/BW_Level1.unity
+    guid: e24920378b3cbee41823627e5b883af5
+  - enabled: 1
+    path: Assets/Scenes/BlackNWhite/BW_Level2.unity
+    guid: 0d8ccdea2860c9b449d6876540a2864b
+  - enabled: 1
+    path: Assets/Scenes/BlackNWhite/BW_level3.unity
+    guid: ec528c0ee2d4406469ae6be83e535860
+  - enabled: 1
+    path: Assets/Scenes/BlackNWhite/BW_Level4.unity
+    guid: 7ae56b8f7c1f10d42a797c2faa0cef76
+  - enabled: 1
+    path: Assets/Scenes/BlackNWhite/BW_level5.unity
+    guid: f606603664bb9cc4d883f006378fd99a
+  - enabled: 1
+    path: Assets/Scenes/Infiltrate/Infiltrated.unity
+    guid: 95904bf43ff83a148ac0602256093125
+  - enabled: 1
+    path: Assets/Scenes/Infiltrate/infiltrated2.unity
+    guid: d5e37074f25e3da4d8609918f48ca79e
+  - enabled: 1
+    path: Assets/Scenes/Infiltrate/Infiltrated3.unity
+    guid: b4703d728abb85f4a99e16a82586998d
+  - enabled: 1
+    path: Assets/Scenes/Relax/Relax1.unity
+    guid: fe75871fb83575f458a36ebcc90ef6f5
+  - enabled: 1
+    path: Assets/Scenes/Relax/Relax2.unity
+    guid: ea1164649bc03444cba60b847b02662a
+  - enabled: 1
+    path: Assets/Scenes/Relax/Relax8.unity
+    guid: aabe519bcaa33d24f8692ab86149abd9
+  - enabled: 1
+    path: Assets/Scenes/Relax/Relax9.unity
+    guid: 2f2caad1c7ca61a49966a19bd67d2ab6
+  - enabled: 1
+    path: Assets/Scenes/Relax/Relax3.unity
+    guid: 9da62a8c4a0804046bd316086108f976
+  - enabled: 1
+    path: Assets/Scenes/Relax/Relax10.unity
+    guid: 9e5c8df160c4b7040abd2e747a2702bb
+  - enabled: 1
+    path: Assets/Scenes/Relax/Turbine.unity
+    guid: bfb09c0f4bedb984e90262616ebd43fe
+  - enabled: 1
+    path: Assets/Scenes/YLevel/AB_lvl12.unity
+    guid: 27953b47345e0ba4380be1e5a8845554
+  - enabled: 1
+    path: Assets/Scenes/YLevel/Y_Level2.unity
+    guid: 9e2846c1b7dc63342882f4a514afee5a
+  - enabled: 1
+    path: Assets/Scenes/YLevel/Chase1.2.unity
+    guid: 0b513b31cf5e62a499c5f63e902da523
+  - enabled: 1
+    path: Assets/Scenes/YLevel/ALevel.unity
+    guid: cf7efa3895cc66b40b36321d19dbea1a
+  - enabled: 1
+    path: Assets/Scenes/YLevel/Relax11.unity
+    guid: 96fec53c203ab5947b48e27951991818
+  - enabled: 1
+    path: Assets/Scenes/YLevel/Sur_level5.unity
+    guid: b3d4c6dcfd3336442887dfbf7303b330
+  - enabled: 1
+    path: Assets/Scenes/YLevel/SLevel.unity
+    guid: 445149be9a8522b43accc43bf748110a
+  - enabled: 1
+    path: Assets/Scenes/YLevel/AB_lvl11.unity
+    guid: 7c6de379115b944429c253d8b92d3d4f
+  - enabled: 1
+    path: Assets/Scenes/Switch/Sur_level9.unity
+    guid: 1ad0e33221b875c408b2595e2fc57237
+  - enabled: 1
+    path: Assets/Scenes/Switch/SwitchLevel.unity
+    guid: 0d02d5f6ce71521408f6e5a342838430
+  - enabled: 1
+    path: Assets/Scenes/Switch/DarkLevel1.unity
+    guid: c322025a8b7303d4abf553f946e864a9
+  - enabled: 1
+    path: Assets/Scenes/Switch/TempleFLoat.unity
+    guid: dbfd3c582ee836c479a89edeb3084b40
+  - enabled: 1
+    path: Assets/Scenes/Switch/SolidLevel11_sur.unity
+    guid: 35e5024e634f74a4eb2fb78a19e2686c
+  - enabled: 1
+    path: Assets/Scenes/Switch/Y_Level3.unity
+    guid: b41d7d3c7ab5fad4f8621bbfdbc23be5
+  - enabled: 1
+    path: Assets/Scenes/Switch/Challenge10.unity
+    guid: fe60afa30c1798a4085ad01ae73cc753
+  - enabled: 1
+    path: Assets/Scenes/UnderGround/UnderWater.unity
+    guid: aeec45d1ce8ef634184da5ed7739e1b1
+  - enabled: 1
+    path: Assets/Scenes/UnderGround/UnderwaterDarkness.unity
+    guid: 42b6cedbc8da1304691953e9b4845ec8
+  - enabled: 1
+    path: Assets/Scenes/UnderGround/Final level.unity
+    guid: 2496179e6c735304e98162ecedf8c4e5
