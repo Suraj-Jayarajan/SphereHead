@@ -1,3 +1,3 @@
 # SphereHead
 
-[![Spherehead Launch Trailer](./Promotions/launch_trailer.mp4)]
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/aWI2REGV5qQ/0.jpg)](https://www.youtube.com/watch?v=aWI2REGV5qQ)
