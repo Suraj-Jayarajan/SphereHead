@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Txt_HighScore
+  - Txt_BestTime
+  - Btn_SfxBtn
+  - Btn_Mute
+  - Btn_Credits
+  - Btn_RateUs
+  - Btn_exit
+  - Btn_Fb
+  - AudioManager
+  - Ground
+  - AdManager
+  - Obstacle
+  - ColorCubes
+  - ColorCrystal
+  - Key
+  - Door
+  - TimerText
+  - Txt_Keys
+  - GoBackButton
+  - JoystickBg
+  - GameSupervisor
+  - Spike
+  - Coin
+  - PathSeekerTrigger
+  - PathSeekingEnemy
+  - Btn_Back
+  - MovingEnemy
+  - Switch
+  - Btn_Youtube
+  - Btn_Twitter
+  - Btn_Insta
+  - Btn_Web
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Hidden
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
